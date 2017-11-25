@@ -172,7 +172,7 @@
                             </div>
                             <!-- End of .dropdown-menu -->
                         </li>
-                        <li class="menu-btn" data-toggle="modal" data-target="#getAQuoteModal"><a class="btn btn-fill" href="#">GET A QUOTE<span class="icon-chevron-right"></span></a></li>
+                        <li class="menu-btn" data-toggle="modal" data-target="#getAQuoteModal"><a class="btn btn-fill" href="#">FREE TRIAL<span class="icon-chevron-right"></span></a></li>
                         <div class="#"><a href="#"></a></div>
                     </ul>
                 </div>
