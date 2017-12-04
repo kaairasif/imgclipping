@@ -46,13 +46,13 @@
                         <!-- footer left content-->
                         <ul>
                             <li>
-                                <a href="index-2.html"><img src="images/small-logo.png" alt="logo" class="img-responsive logo"></a>
+                                <a href="index-2.html"><img src="images/logo.png" alt="logo" class="img-responsive logo"></a>
                             </li>
                             <li>
                                 <p class="extra-small-text">&copy; 2017</p>
                             </li>
                             <li>
-                                <p class="extra-small-text">Your Company LLC.</p>
+                                <p class="extra-small-text">Image Clipping Service LLC.</p>
                             </li>
                         </ul>
                         <!--end footer left content-->
@@ -68,16 +68,6 @@
                             <li><a href="services.html#bm-technology" class="extra-small-text">Technology</a></li>
                         </ul>
                         <!--end footer service list-->
-                    </li>
-                    <li>
-                        <!--footer Resources list-->
-                        <ul>
-                            <li><a class="regular-text text-color-light">Resources</a></li>
-                            <li><a href="portfolio.html" class="extra-small-text">Portfolio</a></li>
-                            <li><a href="case-studies.html" class="extra-small-text">Case Studies</a></li>
-                            <li><a href="blog.html" class="extra-small-text">Blog</a></li>
-                        </ul>
-                        <!--end footer Resources list-->
                     </li>
                     <li>
                         <!--footer Support list-->

@@ -3,15 +3,6 @@
 
 
 
-/*------------------------------------------------------------------
-[Master Stylesheet]
-
-Project:    DIGITAL MARKETO
-Version:    1
-Date created: July 21, 2017;
-Primary use:    MultiPurpose Template  
--------------------------------------------------------------------*/
-
 
 /*------------------------------------------------------------------
 [ Table of contents ]
@@ -146,11 +137,11 @@ input {
 ====================================== */
 
 .b-clor {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .base-color-bg {
-    background-color: #53b778;
+    background-color: #faa61c;
 }
 
 .grey-dark {
@@ -239,7 +230,7 @@ hr.dark-line {
 .btn.btn-fill.full-width:focus,
 .btn.btn-fill.full-width:hover {
     background: #fff;
-    color: #53b778;
+    color: #faa61c;
 }
 
 
@@ -249,7 +240,7 @@ hr.dark-line {
 
 .box-green-border {
     padding: 58px 10px 24px 30px;
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
 }
 
 .margin-top-15 {
@@ -277,7 +268,7 @@ hr.dark-line {
 .box-green-border:hover a,
 .box-green-border a:focus,
 .box-green-border:hover span {
-    color: #53b778;
+    color: #faa61c;
     text-decoration: none;
 }
 
@@ -397,7 +388,7 @@ form .customised-formgroup input:focus {
 
 form .customised-formgroup input:focus,
 form .customised-formgroup textarea:focus {
-    border-color: #53b778;
+    border-color: #faa61c;
 }
 
 form .customised-formgroup input::-webkit-input-placeholder {
@@ -474,11 +465,11 @@ form .customised-formgroup textarea {
 .btn {
     font-size: 14px;
     line-height: 46px;
-    background: #53b778;
+    background: #faa61c;
     border-radius: 0;
     padding: 0 15px;
     text-transform: uppercase;
-    border: 2px solid #53b778;
+    border: 2px solid #faa61c;
     letter-spacing: 1px;
     color: #fff;
     font-weight: 600;
@@ -487,7 +478,7 @@ form .customised-formgroup textarea {
 
 .btn.btn-nofill {
     background: transparent;
-    color: #53b778;
+    color: #faa61c;
 }
 
 .main-slider .btn.btn-fill {
@@ -516,13 +507,13 @@ form .customised-formgroup textarea {
 .btn.btn-fill:focus,
 .btn.btn-fill:active {
     background: transparent;
-    color: #53b778;
+    color: #faa61c;
 }
 
 .btn.btn-nofill:hover,
 .btn.btn-nofill:focus,
 .btn.btn-nofill:active {
-    background: #53b778;
+    background: #faa61c;
     color: #fff;
 }
 
@@ -594,7 +585,7 @@ header [class^="icon-"] {
 }
 
 header .contact-info ul li a:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 
 header .form-element {
@@ -652,7 +643,7 @@ header .form-inline button {
 .main-menu .nav .open>a:hover,
 .main-menu .nav .open>a:focus {
     background: none;
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
     color: #323a45;
 }
 
@@ -682,7 +673,7 @@ header .form-inline button {
 .main-menu .navbar-nav>li.active>a,
 .main-menu .navbar-nav>li.active>a {
     background: none;
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
 }
 
 .main-menu .navbar-nav .dropdown>a>i {
@@ -699,7 +690,7 @@ header .form-inline button {
 .main-menu .navbar-nav li>.dropdown-megamenu li a:focus,
 .main-menu .navbar-nav li>.dropdown-megamenu li.active a {
     border: none;
-    color: #53b778;
+    color: #faa61c;
 }
 
 .main-menu .navbar-nav li>.dropdown-megamenu li:last-child a {
@@ -715,7 +706,7 @@ header .form-inline button {
 }
 
 .main-menu .navbar-nav li>.dropdown-megamenu li a:hover span {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .main-menu .navbar-nav li>.dropdown-megamenu .b-clor.semi-bold {
@@ -804,11 +795,11 @@ header .form-inline button {
 }
 
 .main-menu .navbar-nav li>.dropdown-menu .megamenu li.active a {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .main-menu .navbar-nav li>.dropdown-menu .megamenu li a:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 .main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu li a{
     position: relative;
@@ -824,7 +815,7 @@ header .form-inline button {
 .main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li a:hover,
 .main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li a:focus,
 .main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li.active a {
-    color: #53b778!important;
+    color: #faa61c!important;
 }
 
 .main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu .submenu-heading {
@@ -832,18 +823,18 @@ header .form-inline button {
     line-height: 40px;
     text-transform: uppercase;
     font-weight: 600;
-    color: #53b778;
+    color: #faa61c;
 }
 
 .main-menu .navbar-nav a:active,
 .main-menu .navbar-nav a.active,
 .main-menu .navbar-nav li .dropdown-megamenu a.active span {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .main-menu .navbar-nav li .dropdown-megamenu a.active {
     border-bottom: none;
-    color: #53b778;
+    color: #faa61c;
 }
 
 
@@ -1070,7 +1061,7 @@ header .form-inline button {
 
 .clients .owl-nav .icon-chevron-left:hover,
 .clients .owl-nav .icon-chevron-right:hover {
-    color: #53b778!important;
+    color: #faa61c!important;
 }
 
 
@@ -1167,7 +1158,7 @@ header .form-inline button {
 
 .services .box-green-border .service-overlay ul li a:hover,
 .services .box-green-border .service-overlay ul li a:hover i {
-    color: #53b778;
+    color: #faa61c;
 }
 
 
@@ -1698,6 +1689,9 @@ footer .light-ash-bg ul li {
     float: left;
     width: 18%;
 }
+footer .light-ash-bg .container > ul > li:first-child {
+    width: 36%;
+}
 
 footer .light-ash-bg ul li.big-width {
     width: 25%;
@@ -1730,7 +1724,7 @@ footer .light-ash-bg ul a {
 }
 
 footer .light-ash-bg ul a:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 
 footer .light-ash-bg .logo {
@@ -1796,7 +1790,7 @@ footer .light-ash-bg ul.social-links li a:active,
 ul.social-links li a:hover,
 ul.social-links li a:focus,
 ul.social-links li a:active {
-    background: #53b778;
+    background: #faa61c;
     color: #fff;
 }
 
@@ -2145,7 +2139,7 @@ ul.social-links li {
     right: -41px;
     width: 150px;
     height: 28px;
-    background: #53b778;
+    background: #faa61c;
     font-size: 12px;
     line-height: 28px;
     color: #ffffff;
@@ -2172,7 +2166,7 @@ ul.social-links li {
 }
 
 .box-content-with-img:hover .box-content-text h3 a {
-    color: #53b778;
+    color: #faa61c;
     text-decoration: underline;
 }
 
@@ -2367,7 +2361,7 @@ ul.social-links li {
     text-align: center;
     width: 100px;
     box-sizing: border-box;
-    background: #53b778;
+    background: #faa61c;
     border: 3px solid #ffffff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -2398,7 +2392,7 @@ ul.social-links li {
 }
 
 .featured-ecommerce-webistes .content .before_after:hover {
-    background: #53b778;
+    background: #faa61c;
     color: #ffffff;
 }
 
@@ -2612,8 +2606,8 @@ ul.social-links li {
 .pro-controls .filter.active,
 .pro-controls .filter:hover,
 .pro-controls .filter:focus {
-    color: #53b778;
-    border-bottom: 2px solid #53b778;
+    color: #faa61c;
+    border-bottom: 2px solid #faa61c;
 }
 
 .pro-item-img {
@@ -2776,8 +2770,8 @@ ul.social-links li {
 .product-section .filter-button-group button:hover,
 .product-section .filter-button-group button:focus,
 .product-section .filter-button-group button.is-checked {
-    color: #53b778;
-    border-color: #53b778;
+    color: #faa61c;
+    border-color: #faa61c;
 }
 
 .portflio-content .gray-text {
@@ -2849,7 +2843,7 @@ ul.social-links li {
 }
 
 .port-modal-content .regular-text a {
-    color: #53b778;
+    color: #faa61c;
     font-weight: 600;
 }
 
@@ -2884,7 +2878,7 @@ ul.social-links li {
 }
 
 .potfolio-modal .thumb-list .selected img {
-    border: 1px solid #53b778;
+    border: 1px solid #faa61c;
 }
 
 .potfolio-modal .carousel-inner>.item {
@@ -2979,7 +2973,7 @@ div.text-box ul li,
     z-index: 0;
     display: block;
     font-size: 24px;
-    color: #53b778;
+    color: #faa61c;
 }
 
 
@@ -3046,7 +3040,7 @@ div.text-box ul li,
     display: inline-block;
     padding-right: 25px;
     border-right: 1px solid #d5d5d5;
-    color: #53b778;
+    color: #faa61c;
     line-height: 50px;
 }
 
@@ -3312,7 +3306,7 @@ div.text-box ul li,
 }
 
 .modal-content li:before {
-    color: #53b778;
+    color: #faa61c;
     font-size: 13px;
 }
 
@@ -3430,7 +3424,7 @@ div.text-box ul li,
 }
 
 .about-box:hover .round-icon-wrapper {
-    background: #53b778;
+    background: #faa61c;
     color: #fff;
 }
 
@@ -3439,7 +3433,7 @@ div.text-box ul li,
 }
 
 .about-box:hover h3 a {
-    color: #53b778;
+    color: #faa61c;
 }
 .about-page-list{
     margin-bottom: 90px;
@@ -3543,7 +3537,7 @@ div.text-box ul li,
 }
 
 .blog-details-content ul li a:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .bloger-name {
@@ -3593,7 +3587,7 @@ div.text-box ul li,
 }
 
 .blog-description a:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .blog-description a {
@@ -3625,7 +3619,7 @@ div.text-box ul li,
 }
 
 .author-sec .btn-holder .medium-btn2.btn.btn-nofill {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .author-sec .btn-holder .medium-btn2.btn.btn-nofill:hover,
@@ -3760,7 +3754,7 @@ div.text-box ul li,
 }
 
 .blog-item-title a:hover {
-    color: #53b778;
+    color: #faa61c;
     text-decoration: none;
 }
 
@@ -3786,7 +3780,7 @@ div.text-box ul li,
 }
 
 .blog-item-data a:hover {
-    color: #53b778;
+    color: #faa61c;
     text-decoration: none;
 }
 
@@ -4069,7 +4063,7 @@ a.blog-item-more:hover {
     font-size: 24px;
     font-weight: 600;
     color: #323a45;
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
 }
 
 .widget-body {
@@ -4159,7 +4153,7 @@ a.blog-item-more:hover {
 
 .widget-menu li a:hover,
 .widget-menu li a.active {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .widget-menu li small {
@@ -4191,8 +4185,8 @@ a.blog-item-more:hover {
 
 .tags a:hover {
     text-decoration: none;
-    border-color: #53b778;
-    color: #53b778;
+    border-color: #faa61c;
+    color: #faa61c;
 }
 
 
@@ -4235,7 +4229,7 @@ a.blog-item-more:hover {
 }
 
 .widget-comments li a:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 
 
@@ -4275,7 +4269,7 @@ a.blog-item-more:hover {
 }
 
 .widget-posts li a:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .widget-posts-img {
@@ -4706,7 +4700,7 @@ section:hover .small-item-carousel .owl-next {
 }
 
 .team_members .member_details h3 .member_intro:hover {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .team_members .member_details .social_icons,
@@ -4740,7 +4734,7 @@ section:hover .small-item-carousel .owl-next {
 
 .team_members .member_details .social_icons li a:hover,
 .team-modal-content .social_icons li a:hover {
-    background: #53b778;
+    background: #faa61c;
 }
 
 .team-modal-content .social_icons {
@@ -4854,7 +4848,7 @@ section:hover .small-item-carousel .owl-next {
 .error-404,
 .under-construction {
     padding: 85px 0;
-    border-top: 2px solid #53b778;
+    border-top: 2px solid #faa61c;
 }
 
 .error-404 .error_message {
@@ -4911,7 +4905,7 @@ section:hover .small-item-carousel .owl-next {
 .under-construction .under-construction-message i {
     display: block;
     font-size: 120px;
-    color: #53b778;
+    color: #faa61c;
     margin: 30px 0;
 }
 
@@ -4938,7 +4932,7 @@ section:hover .small-item-carousel .owl-next {
     width: 100%;
     height: 58px;
     border: none;
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
     font-size: 16px;
     line-height: 58px;
     padding: 0 55px;
@@ -4946,7 +4940,7 @@ section:hover .small-item-carousel .owl-next {
 
 .search-results-banner input:hover,
 .search-results-banner input:focus {
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
 }
 
 .search-results-banner .form-group .icon-magnifier {
@@ -4969,13 +4963,13 @@ section:hover .small-item-carousel .owl-next {
     top: 0;
     right: 0;
     border: none;
-    color: #53b778;
+    color: #faa61c;
     border-left: 1px solid #e9e9e9;
 }
 
 .search-results-banner .form-group button:hover,
 .search-results-banner .form-group button:focus {
-    background: #53b778;
+    background: #faa61c;
     color: #ffffff;
 }
 
@@ -4991,7 +4985,7 @@ section:hover .small-item-carousel .owl-next {
     display: block;
     margin-bottom: 40px;
     padding: 20px 30px;
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
     cursor: pointer;
     transition: background .3s;
 }
@@ -5031,7 +5025,7 @@ section:hover .small-item-carousel .owl-next {
 }
 
 .pricing-plans .pricing:hover .price {
-    color: #53b778;
+    color: #faa61c;
 }
 
 .pricing-plans .pricing li {
@@ -5052,7 +5046,7 @@ section:hover .small-item-carousel .owl-next {
     display: block;
     font-size: 60px;
     line-height: 1;
-    color: #53b778;
+    color: #faa61c;
     font-weight: 600;
     padding: 15px 0 0;
 }
@@ -5257,7 +5251,7 @@ section:hover .small-item-carousel .owl-next {
 .domain-reg-banner .search-field{
     height: 60px!important;
     border: none;
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
     border-radius: 0;
     font-size: 18px;
     line-height: 30px;
@@ -5295,7 +5289,7 @@ section:hover .small-item-carousel .owl-next {
   margin-top: 3px;
 }
 .domain-reg-banner .domain-checkbox:checked + label:before {
-  background: #53b778;
+  background: #faa61c;
 }
 
 .domain-reg-banner .domain-checkbox:checked + label:after {
@@ -5366,7 +5360,7 @@ section:hover .small-item-carousel .owl-next {
     line-height: 60px;
 }
 .search-field-container .search-btn:hover{
-    background: #53b778;
+    background: #faa61c;
     color: #ffffff;
 }
 .domain-search-result{
@@ -5390,7 +5384,7 @@ section:hover .small-item-carousel .owl-next {
     display: block;
     font-size: 18px;
     line-height: 1;
-    color: #53b778;
+    color: #faa61c;
     font-weight: 500;
     margin-bottom: 6px;
 }
@@ -5406,7 +5400,7 @@ section:hover .small-item-carousel .owl-next {
     line-height: 68px;
     color: #252525;
     font-weight: 600;
-    border: 1px solid #53b778;
+    border: 1px solid #faa61c;
     padding: 0 60px;
     margin-bottom: 35px;
     position: relative;
@@ -5418,11 +5412,11 @@ section:hover .small-item-carousel .owl-next {
     top: 0;
     left: 0;
     text-align: center;
-    color: #53b778;
+    color: #faa61c;
     font-weight: bold;
 }
 .domain-search-result .search-msg span{
-    color: #53b778;
+    color: #faa61c;
 }
 .hosting-plans{
     padding-top: 50px;
@@ -5448,11 +5442,11 @@ section:hover .small-item-carousel .owl-next {
 }
 .hosting-plans .price-lebel .price{
     font-size: 24px;
-    color: #53b778;
+    color: #faa61c;
     font-weight: 700;
 }
 .hosting-plans .price-lebel  sup{
-    color: #53b778;
+    color: #faa61c;
     font-size: 14px;
     font-weight: 700;
 }
@@ -5511,7 +5505,7 @@ section:hover .small-item-carousel .owl-next {
 .hosting-features .content > i{
     font-size: 60px;
     line-height: 1;
-    color: #53b778;
+    color: #faa61c;
     position: absolute;
     top: 50px;
     left: 30px;
@@ -5536,7 +5530,7 @@ section:hover .small-item-carousel .owl-next {
 }
 .hosting-pricing .pricing-inner .price span{
     font-size: 30px;
-    color: #53b778;
+    color: #faa61c;
     font-weight: 700;
     display: block;
     padding: 0 0 0 20px;
@@ -5563,7 +5557,7 @@ section:hover .small-item-carousel .owl-next {
     font-size: 12px;
     font-weight: 400;
     line-height: 30px;
-    background: #53b778;
+    background: #faa61c;
     text-align: left;
     padding-left: 10px;
     -webkit-transform: rotate(90deg);
@@ -5644,7 +5638,7 @@ section:hover .small-item-carousel .owl-next {
     margin-top: 8px;
 }
 .start-project .content{
-    border-bottom: 2px solid #53b778;
+    border-bottom: 2px solid #faa61c;
     margin-bottom: 60px;
 }
 .business-case-sudy{

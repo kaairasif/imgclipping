@@ -53,7 +53,7 @@
                             <a href="tel:012.345.1234"><i class="icon-telephone"></i>012.345.1234</a>
                         </li>
                         <li>
-                            <a href="mailto:info@company.com"><i class="icon-envelope"></i>info@company.com</a>
+                            <a href="mailto:info@company.com"><i class="icon-envelope"></i>info@imgclipping.com</a>
                         </li>
                     </ul>
                 </div>
@@ -134,7 +134,6 @@
                         </li>
                         <li><a href="pricing.html">Pricing</a></li>
                         <li><a href="portfolio.html">Portfolio</a></li>
-                        <li><a href="case-studies.html">Case Studies</a></li>
                         <li class="dropdown">
                             <a href="about.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
                             <div class="dropdown-menu">
@@ -159,19 +158,7 @@
                             <!-- End of .dropdown-menu -->
                         </li>
                         <li><a href="contact.html">Contact</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other</a>
-                            <div class="dropdown-menu">
-                                <ul class="megamenu">
-                                    <li><a href="404-error.html">404 Error Page</a></li>
-                                    <li><a href="search-results.html">Search Results</a></li>
-                                    <li><a href="under-construction.html">Under Construction</a></li>
-                                    <li><a href="terms-conditions.html">Terms &amp; Conditions</a></li>
-                                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                </ul>
-                            </div>
-                            <!-- End of .dropdown-menu -->
-                        </li>
+                    
                         <li class="menu-btn" data-toggle="modal" data-target="#getAQuoteModal"><a class="btn btn-fill" href="#">FREE TRIAL<span class="icon-chevron-right"></span></a></li>
                         <div class="#"><a href="#"></a></div>
                     </ul>
